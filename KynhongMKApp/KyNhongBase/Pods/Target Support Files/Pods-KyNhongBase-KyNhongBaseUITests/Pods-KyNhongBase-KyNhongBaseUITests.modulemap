@@ -1,0 +1,6 @@
+framework module Pods_KyNhongBase_KyNhongBaseUITests {
+  umbrella header "Pods-KyNhongBase-KyNhongBaseUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
